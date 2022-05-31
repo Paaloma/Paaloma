@@ -1,5 +1,5 @@
 # Olá! Seja bem-vindo!
-Me chamoo Paloma, curso Matemática e estudo Análise de Dados.
+Me chamo Paloma, curso Matemática e estudo Análise de Dados.
 
 
 <!---
